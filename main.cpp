@@ -1,5 +1,8 @@
 //El objetivo del programa es permitir al usuario registrar el inventario de dispositivos que hay en la casa. Una vez que se tiene el inventario, se debe introducir la cantidad de horas que estuvo encendido cada dispositivo para luego calcular el total de consumo que tuvo la casa durante el mes
 
+/* me falto explicar algunas líneas de código y extender la lista de string, 
+mañana en el transcurso del día si me lo permite la enviaré terminada*/
+
 #include <iostream>
 //#include <locale.h> //admite configuraciones específicas de localización
 using namespace std;
